@@ -2,7 +2,7 @@
 
 # OOP (Object-Oriented Programming)
 ```diff
-Nama  : ferly ardiansyah
+Nama  : FERLY ARDIANSYAH 
 NIM   : 312310448
 Kelas : TI.23.A.5
 ```
@@ -10,9 +10,9 @@ $${\color{lightblue}PYTHON}$$
 
 ## Program Class Data_Mahasiswa
 * **Diagram Class**
-* <img src="gambar/ss Diagram (2).png">
+* <img src="screenshoot/Screenshot 8.png">
 * **Flowchart**
-<img src="gambar/ss flowchart.png">
+<img src="screenshoot/Screenshot 9.png">
 
 ### **Penjelasan dan kode Programnya**   
 Program kita kali ini akan menggunakan sistem OOP(Object-Oriented Programming), apa itu OOP?
@@ -148,24 +148,24 @@ print('Program Selesai')
 ```
 * **Hasil Program**
     * Inputan 't'   
-  <img src="gambar/ss 1.png">
+  <img src="screenshoot/Screenshot 1.png">
     * Inputan 'u'   
-      <img src="gambar/ss 2.png">
+      <img src="screenshoot/Screenshot 2.png">
 
     * Inputan 'h'   
-      <img src="gambar/ss 3.png">
+      <img src="screenshoot/Screenshot 3.png">
 
     * Inputan 'l'   
-      <img src="gambar/ss 4.png">
+      <img src="screenshoot/Screenshot 4.png">
 
     * Tampilan Data Sesudah Di Hapus
 
-     <img src="gambar/ss 5.png">
+     <img src="screenshoot/Screenshot 5.png">
 
     * Inputan 'k'   
-  <img src="gambar/ss 6.png">
+  <img src="screenshoot/Screenshot 6.png">
 
     * Inputan selain 't', 'l', 'u', 'h', dan 'k'    
-      <img src="gambar/ss 7.png">
+      <img src="screenshoot/Screenshot 7.png">
 
 
